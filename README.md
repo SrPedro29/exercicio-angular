@@ -1,11 +1,11 @@
 # Alunos
 
-Gabriel Barbosa - 01566611
-Pedro Augusto - 0143875
-Marcos Antônio - 01405752
-Gabriel Pacheco - 01427378
-George José - 01430653
-Israel Viegas - 01433868
+Gabriel Barbosa - 01566611.
+Pedro Augusto - 0143875.
+Marcos Antônio - 01405752.
+Gabriel Pacheco - 01427378.
+George José - 01430653.
+Israel Viegas - 01433868.
 
 
 # DataBinding
