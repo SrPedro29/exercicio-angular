@@ -1,0 +1,23 @@
+<main>
+    <article>
+        <h1>Interpolação</h1>
+        <h3>{{frase}}</h3>
+        <p>Conheça nosso projeto <a href="{{bigCrunch}}">Big Crunch</a></p>
+    </article>
+    <article>
+        <h1>Event Binding</h1>
+        <p [style.color]="corDaFonte" (click)="setColorFont()">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam accusantium tempore cumque sapiente, nesciunt ex doloribus corrupti nulla tenetur, sunt placeat. Esse vel similique deserunt harum eaque maxime atque nihil?</p>
+    </article>  
+    <article>
+        <h1>Select-Option</h1>
+        <select #select (change)="setTextContent(select.value)">
+            <option value="Salado de Fruto">Salado de Fruto</option>
+            <option value="Netflixo">Netflixo</option>
+            <option value="CNPJOTO">CNPJOTO</option>
+            <option value="Samsungo">Samsungo</option>
+        </select>
+
+        <p>{{texto}}</p>
+    </article>
+
+</main>
